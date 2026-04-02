@@ -1,0 +1,21 @@
+body{
+    background-image:linear-gradient(red, blue);
+    background-image:url(./asset/WhatsApp\ Image\ 2026-03-30\ at\ 19.01.47-2.jpg);
+    background-image:url(./asset/WhatsApp\ Image\ 2026-02-17\ at\ 15.58.05\ \(1\).jpeg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: local;
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    background-color: rgb(9, 181, 244);
+    border-radius: 25px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:red;
+}
